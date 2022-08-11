@@ -7,11 +7,13 @@ background: #dfdfdf;
 }
 
 .container{
+    text-align: center;
     padding: 20px;
     width: 300px;
-    margin: 0 auto;
+    margin: auto;
     margin-top: 40px;
     background: white;
+    border: #000;
     border-radius: 5px;
 }
 
